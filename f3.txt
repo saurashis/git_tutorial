@@ -1,0 +1,21 @@
++Hi there 
+PS C:\Users\Saurashis\OneDrive\Desktop\Git_tutorial> git log --oneline
+b865dfe (HEAD -> master) f2 file edited
+46c05a4 (main/master) Update feature1.txt with password
+ffd7798 Merge remote-tracking branch 'main/master' This is a commit
+be84991 Update web.py with new home page
+acb8ff9 Feature2.txt edited
+83f1ae5 Update web.py with 4th line
+6673b93 3rd line added in web.py
+728d9f3 asdfghjkl
+31ebd9a Bad commit
+2785bf4 Update web.py
+9542214 this is 2nd commit from lovcal repo
+481a2e2 erge branch 'master' of https://github.com/saurashis/git_tutorial This is a clone of github repo
+fd5ac81 this is a amend commit
+c3dbcec Delete sub_m directory
+2d7688a the Feature2.txt file is bing added in feature2 branch
+7eaf13e Create feature1.txt is added in origin/master branches
+74b7a39 Sub branch squashed with squash tag
+4c8c3b5 new file f2.txt added in main branch
+dd6c111 new file f1.txt added in main branch
